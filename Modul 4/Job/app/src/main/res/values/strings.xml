@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Profession</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Profession</string>
+    <string name="todo">TODO</string>
+    <string name="start_text">Zencat</string>
+    <string name="nav_header_subtitle">Discover Information About Profession</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_vacancy">Job Vacancy</string>
+    <string name="menu_news">News</string>
+    <!--  Ganti Bahasa  -->
+    <string name="bahasa">Change Language</string>
+    <string name="inggris">English</string>
+    <string name="indonesia">Indonesia</string>
+
+    <!-- Info Job -->
+    <string name="job1">Chief executive officer (CEO)</string>
+    <string name="job2">Dentist</string>
+    <string name="job3">Surgeon</string>
+    <string name="job4">Pilot</string>
+    <string name="job5">Lawyer</string>
+    <string name="job6">Sales Manager</string>
+    <string name="job7">Teacher</string>
+    <string name="job8">president</string>
+    <string name="job9">Soldier</string>
+    <string name="job10">Programmer</string>
+    <string name="Desc01">The chief executive officer (CEO) is responsible as a leader to regulate and direct the sustainability of the company.</string>
+    <string name="Desc02">Dentists with labels specializing in prosthodontics, orthodontics, and oral surgery, are considered to have special expertise in treating patients with dental problems.</string>
+    <string name="Desc03">Surgeons who are specialists are also included in the category of high income because their duties are more complex in dealing with disease cases.</string>
+    <string name="Desc04">Airline pilots whose job it is to operate aircraft safely and professionally.</string>
+    <string name="Desc05">Lawyers or advocates are professions that offer legal services, especially for purposes that require expert legal counsel in handling civil cases.</string>
+    <string name="Desc06">Sales managers can be placed in various companies with roles as supervisors of the sales team, budget analysis, to provide benefits for the business.</string>
+    <string name="Desc07">Teachers is one of the noble professions. The teachers job is to teach various things to students. Teaching that is done really requires knowledge and expertise. Including part of Teachers contribution to educate the nation.</string>
+    <string name="Desc08">The president is the highest profession in a modern country. The basic salary of the president is quite large and prestigious. The president is actually just a designation, the point is the head of state.</string>
+    <string name="Desc09">The duty of a soldier is to defend the nation and state to the last drop of blood. Especially for those assigned to the border or the battlefield. There are many risks faced by a soldier.</string>
+    <string name="Desc10">A programmer is someone who is in charge of creating a system, application, or program using a programming language. This language consists of a collection of syntaxes that can bridge the human mind and also the computer</string>
+    <string name="gaji01">Salary: Rp.157 Billion</string>
+    <string name="gaji02">Salary: Rp.3 Million - Rp.±20 Million</string>
+    <string name="gaji03">Salary: Rp.±25 Million</string>
+    <string name="gaji04">Salary: Rp.50 Million</string>
+    <string name="gaji05">Salary: Rp. 1,7 Billion/Year</string>
+    <string name="gaji06">Salary: Rp. 1,8 Billion/Year</string>
+    <string name="gaji07">Salary: Rp. 2-9 Million</string>
+    <string name="gaji08">Salary: Rp. 62,7 Million</string>
+    <string name="gaji09">Salary: Rp. 1,9-37 Million</string>
+    <string name="gaji10">Salary: Rp. 8,7 Million</string>
+
+    <!-- Info News -->
+    <string name="judulN1">How to Refresh Body and Mind, Take a Break from Work</string>
+    <string name="judulN2">4 Tips for Organizing a Workspace at Home, Not All Have to Buy New</string>
+    <string name="judulN3">5 Job Prospects for Information Systems Graduates and Their Salaries</string>
+    <string name="judulN4">Forbes 5 Most Wanted Jobs in 2022</string>
+    <string name="isiN1">read more at https://www.cnnindonesia.com/gaya-hidup/20220318060342-277-772901/cara-menyegarkan-tubuh-dan-pikiran-rehat-urusan-pekerjaan</string>
+    <string name="isiN2">read more at https://www.cnnindonesia.com/gaya-hidup/20220311130331-284-769889/4-tips-atur-ruang-kerja-di-rumah-tidak-semua-harus-beli-baru</string>
+    <string name="isiN3">read more at https://www.cnnindonesia.com/ekonomi/20211231115724-104-740984/5-prospek-kerja-lulusan-sistem-informasi-dan-gajinya</string>
+    <string name="isiN4">read more at https://www.cnnindonesia.com/gaya-hidup/20211230070721-284-740383/5-pekerjaan-yang-banyak-dicari-pada-2022-versi-forbes</string>
+</resources>

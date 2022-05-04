@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pekerjaan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Pekerjaan</string>
+    <string name="todo">TODO</string>
+    <string name="start_text">Zencat</string>
+    <string name="nav_header_subtitle">Informasi Tentang Pekerjaan</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_vacancy">Lowongan</string>
+    <string name="menu_news">Berita</string>
+    <!--  Ganti Bahasa  -->
+    <string name="bahasa">Ganti Bahasa</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="inggris">Inggris</string>
+
+    <!--  Info Job  -->
+    <string name="job1">Chief executive officer (CEO)</string>
+    <string name="job2">Dokter Gigi</string>
+    <string name="job3">Dokter Bedah</string>
+    <string name="job4">Pilot</string>
+    <string name="job5">Pengacara</string>
+    <string name="job6">Sales Manager</string>
+    <string name="job7">Guru (PNS)</string>
+    <string name="job8">Presiden</string>
+    <string name="job9">Tentara</string>
+    <string name="job10">Programmer</string>
+    <string name="Desc01">Chief executive officer (CEO) mempunyai tanggung jawab sebagai pemimpin untuk mengatur serta mengarahkan tujuan bagi keberlangsungan perusahaan.</string>
+    <string name="Desc02">Dokter gigi dengan label spesialisasi prostodonsia, ortodontik, dan bedah mulut, dinilai sudah memiliki keahlian khusus dalam menindak pasien dengan permasalahan gigi.</string>
+    <string name="Desc03">Dokter bedah yang termasuk spesialis juga masuk kategori dengan penghasilan tinggi karena tugasnya lebih kompleks dalam menangani kasus penyakit.</string>
+    <string name="Desc04">Pilot maskapai penerbangan yang tugasnya bertanggung jawab mengoperasikan pesawat dengan aman dan profesional.</string>
+    <string name="Desc05">Pengacara atau advokat adalah profesi yang menawarkan jasa hukum, khususnya bagi keperluan yang membutuhkan penasihat hukum ahli dalam menangani kasus perdata.</string>
+    <string name="Desc06">Sales manager bisa ditempatkan di berbagai perusahaan dengan peranan sebagai pengawas tim penjualan, analisa anggaran, sampai memberi keuntungan bagi bisnisnya.</string>
+    <string name="Desc07">Guru termasuk salah satu profesi yang mulia. Tugas Guru mengajar berbagai macam hal kepada muridnya. Mengajar yang dilakukan sangat membutuhkan pengetahuan dan keahlian. Termasuk bagian dari kontribusi Guru untuk mencerdaskan bangsa.</string>
+    <string name="Desc08">Presiden termasuk profesi tertinggi dalam suatu negara modern. Gaji pokok presiden cukup besar dan bergengsi. Presiden sebenarnya hanya sebutan, intinya adalah kepala negara.</string>
+    <string name="Desc09">Tugas seorang tentara adalah membela bangsa dan negara sampai tetes darah terakhir.Terlebih bagi yang ditugaskan di perbatasan ataupun medan pertempuran. Banyak risiko yang dihadapi oleh seorang tentara.</string>
+    <string name="Desc10">Programmer adalah seseorang yang bertugas untuk membuat suatu sistem, aplikasi, atau program menggunakan bahasa pemrograman. Bahasa ini terdiri dari kumpulan sintaks yang bisa menjembatani pikiran manusia dan juga komputer</string>
+    <string name="gaji01">Gaji: Rp.157 Miliar</string>
+    <string name="gaji02">Gaji: Rp.3 juta - Rp.±20 juta</string>
+    <string name="gaji03">Gaji: Rp.±25 juta</string>
+    <string name="gaji04">Gaji: Rp.50 juta</string>
+    <string name="gaji05">Gaji: Rp. 1,7 Miliar/Tahun</string>
+    <string name="gaji06">Gaji: Rp. 1,8 Miliar/Tahun</string>
+    <string name="gaji07">Gaji: Rp. 2-9 Juta</string>
+    <string name="gaji08">Gaji: Rp. 62,7 Juta</string>
+    <string name="gaji09">Gaji: Rp. 1,9-37 Juta</string>
+    <string name="gaji10">Gaji: Rp. 8,7 Juta</string>
+
+    <!-- Info News -->
+    <string name="judulN1">Cara Menyegarkan Tubuh dan Pikiran, Rehat Urusan Pekerjaan</string>
+    <string name="judulN2">4 Tips Atur Ruang Kerja di Rumah, Tidak Semua Harus Beli Baru</string>
+    <string name="judulN3">5 Prospek Kerja Lulusan Sistem Informasi dan Gajinya</string>
+    <string name="judulN4">5 Pekerjaan yang Banyak Dicari pada 2022 Versi Forbes</string>
+    <string name="isiN1">Baca Selengkapnya di https://www.cnnindonesia.com/gaya-hidup/20220318060342-277-772901/cara-menyegarkan-tubuh-dan-pikiran-rehat-urusan-pekerjaan</string>
+    <string name="isiN2">Baca Selengkapnya di https://www.cnnindonesia.com/gaya-hidup/20220311130331-284-769889/4-tips-atur-ruang-kerja-di-rumah-tidak-semua-harus-beli-baru</string>
+    <string name="isiN3">Baca Selengkapnya di https://www.cnnindonesia.com/ekonomi/20211231115724-104-740984/5-prospek-kerja-lulusan-sistem-informasi-dan-gajinya</string>
+    <string name="isiN4">Baca Selengkapnya di https://www.cnnindonesia.com/gaya-hidup/20211230070721-284-740383/5-pekerjaan-yang-banyak-dicari-pada-2022-versi-forbes</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/bahasa"
+                android:title="@string/bahasa">
+            <menu>
+                <item
+                    android:id="@+id/indonesia"
+                    android:title="@string/indonesia" />
+                <item
+                    android:id="@+id/inggris"
+                    android:title="@string/inggris" />
+            </menu>
+            </item>
+        </menu>
+    </item>
+</menu>

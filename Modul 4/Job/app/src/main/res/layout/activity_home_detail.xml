@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.home.HomeDetail">
+
+    <LinearLayout
+        android:layout_width="403dp"
+        android:layout_height="420dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageDetail"
+            android:layout_width="match_parent"
+            android:layout_height="228dp"
+            android:paddingStart="2dp"
+            android:paddingEnd="2dp"
+            app:srcCompat="@drawable/ceo" />
+
+        <TextView
+            android:id="@+id/nameDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:text="CEO"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/gajiDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="10dp"
+            android:paddingTop="3dp"
+            android:paddingEnd="10dp"
+            android:text="Gaji : Rp.99.000"
+            android:textSize="16sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/descDetail"
+            android:layout_width="396dp"
+            android:layout_height="129dp"
+            android:paddingStart="10dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="10dp"
+            android:text="@string/Desc01"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
