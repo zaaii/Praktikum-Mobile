@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="movie"
+            type="com.zai.movieku.network.Movie" />
+        <variable
+            name="clickListener"
+            type="com.zai.movieku.ui.movies.MoviesListener" />
+        <variable
+            name="viewModel"
+            type="com.zai.movieku.ui.movies.MoviesViewModel" />
+    </data>
+
+<androidx.cardview.widget.CardView
+    android:id="@+id/card"
+    android:layout_width="140dp"
+    android:layout_height="250dp"
+    android:layout_margin="10dp"
+    android:padding="5dp"
+    android:onClick="@{() -> clickListener.onClick(movie)}"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="70dp" />
+
+        <ImageView
+            android:id="@+id/movie_imageView"
+            app:imageUrl="@{movie.poster_path}"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/movie_imageView"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/movie_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:text="@{movie.title}"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                android:textColor="@android:color/black"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
+</layout>
